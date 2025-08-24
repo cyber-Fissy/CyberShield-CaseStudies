@@ -1,7 +1,7 @@
 # 🎣 Phishing Attack Incident Case Study  
 
 **Author:** Akinola Fisayo  
-**Experience:** 3 Years Cybersecurity (Incident Response & Threat Analysis)  
+cybersecurity (Incident Response & Threat Analysis)  
 **Date Documented:** 2025  
 
 ---
