@@ -8,3 +8,4 @@ This repository is a showcase of my real-world cybersecurity case studies, SOC s
 	•	📊 Clear, concise security reporting
 
 🚀 My goal: To turn complex security challenges into practical, actionable solutions that keep organizations safe.
+[🎣 Phishing Attack Incident Case Study](CaseStudies/financial-phishing-incident.md)
