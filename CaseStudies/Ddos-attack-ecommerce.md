@@ -1,7 +1,7 @@
 # 🌐 DDoS Attack on E-Commerce Website Case Study  
 
 **Author:** Akinola Fisayo  
-**Experience:** 3 Years Cybersecurity (Incident Response & Threat Analysis)  
+(Incident Response & Threat Analysis)  
 **Date Documented:** 2025  
 
 ---
