@@ -50,7 +50,7 @@ This portfolio (case studies + scripts) is shared under the
 ## 📬 Contact  
 
 - **Name:** Akinola Fisayo  
-- **Email:** yourname@email.com  
+- **Email:** Akinolafisayomichael@gmail.com  
 - **LinkedIn:** [(https://linkedin.com/](http://linkedin.com/in/akinola-fisayo-michael-475962356))  
 - **GitHub:** [github.com/cyber-fissy](https://github.com/cyber-fissy)  
 
